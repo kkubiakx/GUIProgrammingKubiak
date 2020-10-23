@@ -288,10 +288,10 @@ public class Main extends Application {
         deltaValue.relocate((windowWidth + sliderWidth)/2 + 10, 105);
 
         xEquation.setFont(Font.font(30));
-        xEquation.relocate(0, 150);
+        xEquation.relocate(0, 160);
 
         yEquation.setFont(Font.font(30));
-        yEquation.relocate(0, 180);
+        yEquation.relocate(0, 195);
     }
 
     public void setButtons() {
