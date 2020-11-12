@@ -1,0 +1,11 @@
+.navbar.navbar-light.navbar-expand-md.fixed-top {
+}
+
+.navbar-light .navbar-brand {
+  padding-left: 10px;
+}
+
+#body {
+  background-color: rgb(245,243,243);
+}
+
