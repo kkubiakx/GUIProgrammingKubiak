@@ -1,1 +1,0 @@
-Open folder as project Using IntelliJ Idea and Run (Shift + F10)
