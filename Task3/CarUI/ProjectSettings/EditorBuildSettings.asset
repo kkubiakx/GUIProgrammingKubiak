@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CenterScreenMain 1.unity
+    guid: 130015e37d6ab764c9bb684b9e68088c
+  - enabled: 0
+    path: 
+    guid: 38ed7666229f9574299f563f15665142
+  - enabled: 1
+    path: Assets/Scenes/AC.unity
+    guid: da587033bb870404a94852d115566794
+  - enabled: 1
+    path: Assets/Scenes/Cruise.unity
+    guid: 4956946b5d178134b921777b08d08c8d
+  - enabled: 1
+    path: Assets/Scenes/Nav.unity
+    guid: 63d83aee79bc06949a1211f150abe69d
+  - enabled: 1
+    path: Assets/Scenes/Radio.unity
+    guid: eefe6079d48801f49b49b0d882f9a71e
+  - enabled: 1
+    path: Assets/Scenes/Seats.unity
+    guid: 5ff4f7c46b0902b4d91c42645f88187e
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 0421f4fed9c628645bd9be17269f3558
+  - enabled: 1
+    path: Assets/Scenes/GaugeScreen.unity
+    guid: ba3ba8ffa1befc24284543cd852e5ac4
+  m_configObjects: {}
